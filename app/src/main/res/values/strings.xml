@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="send_message">New Password</string>
+    <string name="exit_app">Exit</string>
+    <string name="reset_message">Old Passwords</string>
+    <string name="edit_message">Edit</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="nickname">Nickname</string>
+    <string name="delete_password">Delete</string>
+    <string name="change_password">Change Password</string>
+</resources>
